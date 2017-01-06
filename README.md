@@ -1,5 +1,5 @@
-# BOT-Moodle
-Bot 0.9v for Moodle
+# Fonsi BOT
+Fonsi BOT 0.9v for Moodle
 
 
 <h2>Teniendo el archivo .txt de las preguntas y respuestas (que se genera por otro programa), el bot se encarga de escoger y escribir las respuestas correctas.<br></h2>
