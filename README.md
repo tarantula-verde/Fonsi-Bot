@@ -25,4 +25,3 @@ Instrucciones de Uso:<br />
 
   <a href="http://i.imgur.com/5SEgZJD.gif">http://i.imgur.com/5SEgZJD.gif</a>
 
-<img src='http://i.imgur.com/5SEgZJD.gif' title='Video Gif Bot' width='250' alt='Video Bot' />
