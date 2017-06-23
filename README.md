@@ -19,9 +19,9 @@ Instrucciones de Uso:<br />
   <li>Ir al final de la pagina y abra una opcion de escojer un archivo de texto plano.<br /></li>
   <li>Escoges el archivo de texto plano y espera como 15s y listo.<br /></li>
   </ul>
-  ____________________________________________________________________________________________________
+  ___________________________________________________________
   ****Tardate como 10-15min en apretar el boton de terminar Quiz ;)****
-  ____________________________________________________________________________________________________
+  ___________________________________________________________
 
   <a href="http://i.imgur.com/5SEgZJD.gif">http://i.imgur.com/5SEgZJD.gif</a>
 
