@@ -20,7 +20,7 @@ Instrucciones de Uso:<br />
   <li>Escoges el archivo de texto plano y espera como 15s y listo.<br /></li>
   </ul>
   ____________________________________________________________________________________________________
-  ****Recuerda no dar Finish rapido, tardate como 10-15min en apretar el boton de terminar Quiz ;)****
+  ****Tardate como 10-15min en apretar el boton de terminar Quiz ;)****
   ____________________________________________________________________________________________________
 
   <a href="http://i.imgur.com/5SEgZJD.gif">http://i.imgur.com/5SEgZJD.gif</a>
